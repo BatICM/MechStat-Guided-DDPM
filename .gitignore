@@ -1,0 +1,13 @@
+# Data and generated results
+data/
+results/
+
+# Python caches and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor and notebook files
+.spyproject/
+.ipynb_checkpoints/
