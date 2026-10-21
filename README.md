@@ -1,7 +1,12 @@
 # MechStat-Guided-DDPM
 
-Code for statistical and mechanistic feature extraction, conditional DDPM
-training, prediction, and evaluation using 24 weeks of historical vehicle data.
+Code for the paper: Deng Z, Dong L, Chen Z, Ning Z, Tang X. Probabilistic Battery Capacity Prediction for Real-World Vehicles via a Mechanism- and Statistical Feature-Driven Diffusion Model. IEEE Transactions on Transportation Electrification. DOI: [10.1109/TTE.2026.3746250].
+
+If you use this code or the proposed method in your research, please cite this paper.
+
+The implementation includes statistical and mechanistic feature extraction,
+conditional DDPM training, prediction, and evaluation using 24 weeks of
+historical vehicle data.
 
 ## Installation
 
